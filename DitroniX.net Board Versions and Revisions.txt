@@ -1,0 +1,26 @@
+
+For various reasons, our boards may require update.  The below list contains any revision information summary.
+
+LMIC (Linear Motor IoT Controller)
+Features include ESP8266, DC Linear Motor Driver, Voltage, OLED, I2C, Safety Lockout, D1 USB Flashing Compatible
+
+
+1.2209-102	Beta Release
+1.2210-104	Production Release (Updated SMPS)
+1.2211-105	Production Release
+
+
+
+
+
+
+
+
+Further information can be found:
+
+Website https://ditronix.net/
+WIKI https://ditronix.net/wiki/
+GitHub https://github.com/DitroniX
+Shop https://ditronix.net/shop/
+
+Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
