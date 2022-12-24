@@ -10,7 +10,7 @@ LMIC is a DC Linear Motor IoT Controller, based on an ESP8266, with Hardware Saf
 The board has three DC Linear Motor Outputs (all paralleled to the L6205 Dual DMOS Full Bridge Driver).
 
 - Low voltage DC input (10-32V), is fed via the terminal block (not populated), or you may optionally solder the power supply cable tails directly to the PCB.
-- Solar Tracking maybe used using the OPTO input.
+- Solar Panel Tracking maybe used using the OPTO input.
 - Hardware Safety Circuit.
 - Power for the board may either be provided via the Micro USB (for flashing, debugging etc.).
 
