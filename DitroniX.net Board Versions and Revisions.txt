@@ -5,14 +5,11 @@ LMIC (Linear Motor IoT Controller)
 Features include ESP8266, DC Linear Motor Driver, Voltage, OLED, I2C, Safety Lockout, D1 USB Flashing Compatible
 
 
-1.2209-102	Beta Release
-1.2210-104	Production Release (Updated SMPS)
+
+1.2211-106	Production Release 1.2211-105 with alternative manufacturer USB Socket 
 1.2211-105	Production Release
-
-
-
-
-
+1.2210-104	Production Release (Updated SMPS)
+1.2209-102	Beta Release
 
 
 
