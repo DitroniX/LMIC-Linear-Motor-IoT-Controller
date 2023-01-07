@@ -7,7 +7,7 @@
   Simplified Board Bring Up Test - OLED Display via I2c (Heatbeat LED)
   
   Remember!
-  - Set the BOARD to ESP8266 DEV Module (or similar).
+  - Set the BOARD to ESP8266 DEV Module (Wemos D1 or similar).
   - You can also set the BAUD rate up to 921600 to speed up flashing.
   - The SDK does NOT need external power to flash.  It will take Power from the USB 5V.
   
@@ -33,13 +33,15 @@ const int LoopDelay = 1; // Loop Delay in Seconds
 // Variables
 float TestCount = 0;
 
-// OLED Instance. You will need to select your OLED Display. 
+// OLED Instance. You will need to select your OLED Display.Â 
 // Uncomment/Comment as needed.
-//GyverOLED<SSD1306_128x32, OLED_BUFFER> oled;
+//GyverOLED<SSD1306_128x32, OLED_BUFFER> oled; // 0.6" Lower Resolution
 //GyverOLED<SSD1306_128x32, OLED_NO_BUFFER> oled;
-//GyverOLED<SSD1306_128x64, OLED_BUFFER> oled;
+GyverOLED<SSD1306_128x64, OLED_BUFFER> oled;  // 0.6" Higher Resolution
 //GyverOLED<SSD1306_128x64, OLED_NO_BUFFER> oled;
-GyverOLED<SSH1106_128x64> oled;
+//GyverOLED<SSH1106_128x64> oled;
+
+// **************** FUNCTIONS AND ROUTINES ****************
 
 // Draw Battery
 void drawBattery(byte percent) {
@@ -53,6 +55,7 @@ void drawBattery(byte percent) {
   oled.drawByte(0b11111111);
 }
 
+// **************** SETUP ****************
 void setup() {
 
   // Stabalise
@@ -74,6 +77,7 @@ void setup() {
   delay(2000);
 }
 
+// **************** LOOP ****************
 void loop() {
 
   // Test Counter.  Any random decimal number between 0 and 99

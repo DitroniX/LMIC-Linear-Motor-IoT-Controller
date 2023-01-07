@@ -2,7 +2,7 @@
   Dave Williams, DitroniX 2019-2022 (ditronix.net)
   LMIC-1 Linear Motor IoT Controller v1.0
   Features include ESP8266 DC Linear Motor Driver Voltage OLED I2C Safety Lockout
-  PCA v1.00 - Test Code Firmware v1 - 30th September 2022
+  PCA v1.00 - Test Code Firmware v1 - 
   .
   Simplified Board Bring Up Test - Motor Test
   .
