@@ -18,6 +18,8 @@ An OPTO sensor input is provided for Solar Tracking, so you may connect a daylig
 
 An I2C 2.54mm header is provided in the middle of the board, which will allow an OLED display (such as a SSD1306 I2C), to be directly mounted / connected on the board.  OLED not included.
 
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/01/LMIC-ESP8266-SDK-v1-2212-105-Enclosure-scaled.jpg?raw=true)
+
 **Principle Safety Requirements**
 
 Linear motors have an incredible torque and with the added extremes of weather or possible jams, the DC motor driver (ST L6205 DMOS dual full bridge IC), safety features are fed into a hardware safety circuit.
@@ -29,6 +31,8 @@ Linear motors have an incredible torque and with the added extremes of weather o
 - Robust DC Driver(s)
 - Plug in an external I2C temperature sensor for separate measuring ambient temperature
 - The dedicated hardware safety circuit included on the board sets a flag to a GPIO, on an alert trip. From this alert signal you can then action as needed – ideally STOP!
+
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/01/LMIC-ESP8266-SDK-v1-2211-105-OLED-LATCHED.jpg?raw=true)
 
 **Solar Tracking**
 
