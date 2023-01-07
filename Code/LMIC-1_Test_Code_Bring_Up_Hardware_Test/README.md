@@ -27,6 +27,8 @@ Notes:
 **IMPORTANT**
 It is important that you observe the FaultConditionCheck and DelayFaultCheck functions and use it in your code, in order to detect a hardware driver fault, shorted outputs, over-load, thermal trip etc.
 
+Example
+https://ditronix.net/wiki/lmic-esp8266-hardware-motor-and-safety-circuit-test/
 
 
 
