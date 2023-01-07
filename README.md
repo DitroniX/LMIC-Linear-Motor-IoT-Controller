@@ -1,4 +1,4 @@
-**LMIC Linear Motor IoT Controller
+**LMIC Linear Motor IoT Controller**
 
 ------------
 
@@ -44,6 +44,7 @@ In controlling Solar Panels, a nice to have feature is not only integration into
 Solar tracking works OK with the single photo diode. It would be good to average more but how far does one go. Either way, a time period needs to be added in between (dwell), so that the panels do not constantly move back and forth – stressing the linear motors unnecessarily. Some hysteresis could ideally be included in the code. All part of experimenting.
 
 2) Controlling the panels and safely lowering in high winds, at night or other scenarios, can be via the Home Automation system and coupled with a weather station anemometer (for example), ticks the box.
+
 
 
 All test code is OPEN SOURCE and although is is not intended for real world use, it may be freely used, or modified as needed.  It is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
