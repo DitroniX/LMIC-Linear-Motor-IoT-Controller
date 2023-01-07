@@ -10,9 +10,10 @@ LMIC is a DC Linear Motor IoT Controller, based on an ESP8266, with Hardware Saf
 The board has three DC Linear Motor Outputs (all paralleled to the L6205 Dual DMOS Full Bridge Driver).
 
 - Low voltage DC input (10-32V), is fed via the terminal block (not populated), or you may optionally solder the power supply cable tails directly to the PCB.
+- On-board 3V3 Buck Regulator
 - Solar Panel Tracking maybe used using the OPTO input.
 - Hardware Safety Circuit.
-- Power for the board may either be provided via the Micro USB (for flashing, debugging etc.).
+- Power for the board may be provided via the Micro USB (for flashing, debugging etc.).  
 
 An OPTO sensor input is provided for Solar Tracking, so you may connect a daylight sensor such as the a 3DU5C, TSL257 or GL5528.  This could be mounted on the SDK or wired remotely. OPTO not included.
 
@@ -54,4 +55,4 @@ Further information can be found:
 - **GitHub**  https://github.com/DitroniX/
 - **Shop**  https://ditronix.net/shop/
 
-Dave Williams | G8PUO | DitroniX 1981-2022 | ditronix.net
+Dave Williams | G8PUO | DitroniX 1981-2023 | ditronix.net
