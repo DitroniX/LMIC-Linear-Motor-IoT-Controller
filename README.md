@@ -45,6 +45,8 @@ Solar tracking works OK with the single photo diode. It would be good to average
 
 2) Controlling the panels and safely lowering in high winds, at night or other scenarios, can be via the Home Automation system and coupled with a weather station anemometer (for example), ticks the box.
 
+**LMIC 'What Is In The Shipping Box'**
+![Display-Type-B](https://ditronix.net/wp-content/uploads/2023/01/LMIC-ESP8266-In-The-Box-scaled.jpg?raw=true)
 
 
 All test code is OPEN SOURCE and although is is not intended for real world use, it may be freely used, or modified as needed.  It is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
