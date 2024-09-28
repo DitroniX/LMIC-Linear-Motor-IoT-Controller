@@ -77,7 +77,7 @@ We value our Customers, Users of our designs and STEM Communities, all over the 
 * [Supporting the STEM Projects - BuyMeACoffee](https://www.buymeacoffee.com/DitroniX)
 *  **LinkedIN**: [https://www.linkedin.com/in/g8puo/](https://www.linkedin.com/in/g8puo/)
 
-***Dave Williams, Eastbourne, UK.***
+***Dave Williams, Maidstone, UK.***
 
 Electronics Engineer | Software Developer | R&D Support | RF Engineering | Product Certification and Testing | STEM Ambassador
 
@@ -88,3 +88,4 @@ Electronics Engineer | Software Developer | R&D Support | RF Engineering | Produ
 Life is one long exciting learning curve, help others by setting the seed to knowledge.
 
 ![DitroniX Supporting STEM](https://hackster.imgix.net/uploads/attachments/1606838/stem_ambassador_-_100_volunteer_badge_edxfxlrfbc1_bjdqharfoe1_xbqi2KUcri.png?auto=compress%2Cformat&w=540&fit=max)
+
